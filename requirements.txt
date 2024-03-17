@@ -1,0 +1,10 @@
+python-dotenv==0.10.1
+torch 
+torchvision
+transformers
+datasets
+bitsandbytes 
+accelerate
+hf_transfer
+streamlit
+elevenlabs
